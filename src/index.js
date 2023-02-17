@@ -6,3 +6,5 @@ const helloworld = <App />
 
 const root = ReactDOM.createRoot(document.querySelector('#root'));
 root.render(helloworld);
+
+// Did this in the previous exercise without realising
